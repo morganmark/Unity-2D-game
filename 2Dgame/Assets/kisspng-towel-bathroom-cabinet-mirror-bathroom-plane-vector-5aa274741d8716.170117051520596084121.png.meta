@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: a891fbff9604d714eab0901b38634840
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4724003727788964331
+    second: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_0
+  - first:
+      213: -3221822635944670350
+    second: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_1
+  - first:
+      213: 3433237091436734852
+    second: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_2
+  - first:
+      213: -5708494544165716367
+    second: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_3
+  - first:
+      213: 8268878906574999768
+    second: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_4
+  - first:
+      213: -8444297248261506223
+    second: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 369
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63827b50e7e6554985fa58e31343a28
+      internalID: 4724003727788964331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 298
+        width: 361
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf238bce1d46c324b9dcba76c1e8a85e
+      internalID: -3221822635944670350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 585
+        width: 377
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ea63407f7e6be478d2972947fef967
+      internalID: 3433237091436734852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 335
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8cb22abd4c6054fb1dc72460d9efc2
+      internalID: -5708494544165716367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 256
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85048809678d4224caa3e58ecc00612a
+      internalID: 8268878906574999768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-towel-bathroom-cabinet-mirror-bathroom-plane-vector-5aa274741d8716.170117051520596084121_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 34
+        width: 450
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc1c772bfa9164db02bd52ebc5ed57
+      internalID: -8444297248261506223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
